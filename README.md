@@ -11,3 +11,7 @@ We make the world more connected, we open up new routes of financial transaction
 That being said, even the noblest of projects costs electricity. Some of the time, that electricity might be obtained from renwable sources; far more often, it is not.
 Bitcoin took off so rapidly, which, combined with its decentralized nature and, therefore, a lack of oversight, has meant that the ramifications of this technology are only now being explored.
 One of those ramifications looks to be an increase in global temperatures due to the huge energy needs of Bitcoin mining, especially in regions like Xinjiang that are reliant on fossil fuels.
+
+# Forked Comment - Alan Chu
+The article brings up an important issue. Our greed for money overshadows the health of our planet. This problem can even come from things such as bitcoin mining.
+Interesting article! -Alan Chu
