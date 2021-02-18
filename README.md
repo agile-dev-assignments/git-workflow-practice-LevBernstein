@@ -21,3 +21,6 @@ The article was very informative and shocking regarding global power consumption
 
 # Forked Comment - Skylar Gao
 I was once quite concerned about the energy consumption and emission issues related to cyptocurrencies mining, and I think this article outlined the problem really well. The author points out an issue that I never thought about before, that the cheapest energy is usually the dirtiest. This is indeed very concerning and I hope governments can make effort to regulate it.
+
+# Forked Comment - Ben Kaplan
+This article was eye opening regarding the sheer scale of power consumption across the globe from bitcoin mining. It doesn't shock me that we as humans care more about money than our impact on the environment at least on a micro scale. It would be interesting to see how bitcoin mining could possibly be regulated on a large scale. 
