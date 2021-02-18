@@ -18,3 +18,6 @@ Interesting article! -Alan Chu
 
 # Forked Comment - Adam Ethan
 The article was very informative and shocking regarding global power consumption of bitcoin mining. I am curious if any governments could slow the growth of cryptocurrencies via regulations on power consumption. 
+
+# Forked Comment - Skylar Gao
+I was once quite concerned about the energy consumption and emission issues related to cyptocurrencies mining, and I think this article outlined the problem really well. The author points out an issue that I never thought about before, that the cheapest energy is usually the dirtiest. This is indeed very concerning and I hope governments can make effort to regulate it.
