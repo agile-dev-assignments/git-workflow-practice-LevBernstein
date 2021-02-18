@@ -15,3 +15,6 @@ One of those ramifications looks to be an increase in global temperatures due to
 # Forked Comment - Alan Chu
 The article brings up an important issue. Our greed for money overshadows the health of our planet. This problem can even come from things such as bitcoin mining.
 Interesting article! -Alan Chu
+
+# Forked Comment - Adam Ethan
+The article was very informative and shocking regarding global power consumption of bitcoin mining. I am curious if any governments could slow the growth of cryptocurrencies via regulations on power consumption. 
